@@ -29,7 +29,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #000;
+    color: #055194;
     line-height: 1.5
 }
 
@@ -1747,7 +1747,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .primary-heading {
     font-family: "Pinyon Script", serif;
-    color: #FFA33E;
+    color: #150b01;
     margin: 0;
     padding: 0;
     font-size: 80px
@@ -1761,7 +1761,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
-    color: #fff;
+    color: #abd1d0;
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
